@@ -32,7 +32,7 @@ Upload a file to the user's storage on AWS S3.
 -   **Method:** `POST`
 -   **Request Parameters:**
     -   `userName`: Name of the user who owns the file
-    -   `file`: File to upload (multipart form-data
+    -   `file`: File to upload (multipart form-data)
 
 ### Create User
 
