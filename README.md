@@ -4,7 +4,6 @@ A User Document Storage Service - S3
 Built on the robust foundations of Spring Boot and seamlessly integrated with Amazon Web Services (AWS) S3.
 
 ## API Endpoints
-Add your AWS S3 Bucket details (access-key, secret-key, bucket name) in application.yml
 ### Search Files
 
 Search for files in the user's storage on AWS S3.
